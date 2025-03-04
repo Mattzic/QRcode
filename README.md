@@ -24,7 +24,7 @@ My first Frontend Mentor challenge
 
 ### Links
 
-- Solution URL: ()
+- Solution URL: (https://github.com/Mattzic/QRcode.git)
 - Live Site URL: (https://mattzic.github.io/QRcode/)
 
 ## My process
